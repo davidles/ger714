@@ -8,5 +8,8 @@ const ger714 = {
   tools: [React, Redux, Node, Jest, Bootstrap],
 }
 
-You can find me:
-- [StackBlitz] {https://stackblitz.com/@ger714} 🏓
+![image](https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif)
+
+Find me around the web 🌎:
+- Tinkering with interactions on [StackBlitz](https://stackblitz.com/@ger714) and [Codepen](https://stackblitz.com/@ger714)🏓
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/germandavidlescano/) 💼

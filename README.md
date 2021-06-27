@@ -1,6 +1,6 @@
 ### Hi, my name is Ger David! 👋
 
-![Ger lescano (1)](https://user-images.githubusercontent.com/62574447/123547432-23479900-d737-11eb-8611-ac47fc90faa1.png)
+![Ger lescano (2)](https://user-images.githubusercontent.com/62574447/123554254-74ff1c00-d755-11eb-88f7-081cec512d69.png)
 
 ```javascript
 const ger714 = {

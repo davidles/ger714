@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, my name is Ger David! 👋
+
+const thai = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS, Java],
+  tools: [React, Redux, Node, Jest, Bootstrap],
+}
 
 <!--
 **ger714/ger714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,4 +9,4 @@ const ger714 = {
 }
 
 You can find me:
-- Tinkering with interactions on ![StackBlitz]{https://stackblitz.com/@ger714} 🏓
+- [StackBlitz]{https://stackblitz.com/@ger714} 🏓

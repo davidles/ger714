@@ -8,4 +8,5 @@ const ger714 = {
   tools: [React, Redux, Node, Jest, Bootstrap],
 }
 
-
+You can find me:
+- Tinkering with interactions on [StackBlitz]{https://stackblitz.com/@ger714} 🏓

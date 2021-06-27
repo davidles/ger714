@@ -5,7 +5,7 @@
 const ger714 = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [React, Redux, Node, Jest, Bootstrap],
+  tools: [React, Redux, Node, Jest, Bootstrap]
 }
 
 ![image](https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif)
